@@ -1,0 +1,12 @@
+.DS_Store
+/.context-orbit-sync.json
+/Makefile
+node_modules/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.db
+*.log
+# Actual stores and evidence must live outside Git, not just behind ignore rules.

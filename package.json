@@ -1,0 +1,6 @@
+{
+  "name": "context-orbit-server",
+  "private": true,
+  "license": "MIT",
+  "packageManager": "pnpm@12.14.0"
+}
